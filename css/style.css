@@ -101,6 +101,10 @@ h6 {
           flex-direction: column;
 }
 
+body {
+  font-family: "Roboto", sans-serif;
+}
+
 body.lock {
   overflow: hidden;
 }
